@@ -1,0 +1,27 @@
+Features:
+    Sepia
+    Greyscale
+    Duplicate
+    Technicolor[popcolor]
+    Framing
+        Telescope
+        
+    #Autocontrast as of now, I'm thinking of doing histogram equalization
+    #I have yet to get this to work, which may be a problem
+    Autocontrast 
+    
+    #these three uses something called convolution
+    #so if I can get one of them working (working on blur),
+    #I should be able to get the other two to work
+    Blur
+    Sharpen
+    Emboss
+
+    #This I have yet to see how hard it is,
+    #the research that I do for blur may be applicable
+    #in terms of blurring colored images (averaging the colors
+    #to create middle color)
+    Gradient
+
+    #If I have time
+    Kleidoscope effect
